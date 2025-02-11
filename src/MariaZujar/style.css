@@ -14,6 +14,13 @@ header {
     text-align: center;
 }
 
+.header-imagen {
+    width: 20%; /* Ajusta el tamaño al 60% del ancho del contenedor */
+    height: auto; /* Mantiene la proporción original de la imagen */
+    margin: 0 auto; /* Centra la imagen horizontalmente */
+    display: block; /* Asegura que la imagen se comporte como un bloque */
+}
+
 nav ul {
     list-style: none;
     padding: 0;
